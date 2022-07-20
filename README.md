@@ -1,2 +1,2 @@
-# Tech-Academy-Projects
-This repository is for my Tech Academy Projects.
+<h1>Version Control</h1>
+These projects taught me the basics of version control.
